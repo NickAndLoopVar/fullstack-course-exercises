@@ -10,10 +10,10 @@ The course covers a wide range of technologies and practices in modern web devel
 - **Node.js**: Implementation of RESTful and GraphQL web services.
 - **TypeScript**: Using TypeScript to improve code quality and scalability.
 - **React Native**: Mobile application development.
-- **Integración Continua**: Automation of the build and deployment process.
-- **Depuración de Aplicaciones**: Techniques and tools for debugging web applications.
-- **Tecnología de Contenedores**: Using Docker containers to manage runtime environments.
-- **Bases de Datos**: Database management and manipulation.
+- **Continuous Integration**: Automation of the build and deployment process.
+- **Debugging Applications**: Techniques and tools for debugging web applications.
+- **Container Technology**: Using Docker containers to manage runtime environments.
+- **Database**: Database management and manipulation.
 
 ## Repository Structure
 
